@@ -57,4 +57,4 @@ table.search('tr').each do |tr|
 end
 
 json = JSON.pretty_generate(bridges)
-File.open("wichita_bridge_data.json", 'w') { |file| file.write(json) }
+File.open("delco_bridge_data.json", 'w') { |file| file.write(json) }
