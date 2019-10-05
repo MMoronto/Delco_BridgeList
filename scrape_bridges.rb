@@ -2,7 +2,7 @@ require 'open-uri'
 require 'nokogiri'
 require 'json'
 
-url = 'https://bridgereports.com/city/delaware-county-pennsylvania/'
+url = 'https://bridgereports.com/city/philadelphia-pennsylvania/'
 html = open(url)
 
 doc = Nokogiri::HTML(html)
