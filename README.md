@@ -1,2 +1,2 @@
 # Delco_BridgeList
-Delaware county bridge data scraped from Bridge Reports with Nokogiri and saved to a JSON file.
+City of Philadelphia bridge data scraped from Bridge Reports with Nokogiri and saved to a JSON file.
